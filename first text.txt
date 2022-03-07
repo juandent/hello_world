@@ -1,4 +1,5 @@
 Hola
 Este es el proyecto de Alice
-Ultima linea de Alice
-Nueva version de Alice
+Erased by Bob
+Added by Bob
+Manually corrected
